@@ -30,6 +30,9 @@ https://www.youtube.com/watch?v=hI_BkS_iOMM&t=6s
 ## Contributing
 Open an issue to discuss what you would like to change.
 
+**Contributors:**
+- zec - Modern ES2023+ refactoring, improved error handling, and code structure
+
 ## Contact
 roblox: https://www.roblox.com/users/1957038621/profile
 

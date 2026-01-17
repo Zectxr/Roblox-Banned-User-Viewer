@@ -1,0 +1,25 @@
+{
+  "name": "roblox-banned-viewer",
+  "version": "1.0.0",
+  "description": "CLI tool to view information about banned Roblox users",
+  "type": "module",
+  "main": "app.js",
+  "bin": {
+    "banview": "./app.js"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": ["roblox", "cli", "banned", "users"],
+  "author": "SCR1PP3D",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "prompt-sync": "^4.2.0",
+    "node-bash-title": "^0.0.2",
+    "yargs": "^17.7.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
